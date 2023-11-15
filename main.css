@@ -4,22 +4,6 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #929090;
     padding: 10px;
-}
-
-.header-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.header-text {
-    margin-right: 100px; /* Відступ між кожним словом */
-}
-
-.header-text a {
-    color: #fff;
-    text-decoration: none;
 }
