@@ -8,13 +8,3 @@ header {
     background-color: #929090;
     padding: 10px;
 }
-.myDiv {
-    color: white;
-    font-size: 44px;
-    font-family: Roboto;
-    font-weight: 900;
-    text-transform: uppercase;
-    line-height: 60px;
-    letter-spacing: 2.64px;
-    word-wrap: break-word  
-}
