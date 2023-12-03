@@ -1,0 +1,12 @@
+header {
+    background-color: #929090;
+    padding: 10px;
+}
+
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url("C:\Users\user\Downloads\Lato-Light.ttf");
+}
+a {
+    font-family:'Lato', sans-serif ;
+}
