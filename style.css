@@ -10,3 +10,6 @@ header {
 a {
     font-family:'Lato', sans-serif ;
 }
+.section {
+    width: 1200px;
+}
