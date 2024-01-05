@@ -11,7 +11,11 @@ a {
     font-family:'Lato', sans-serif ;
 }
 .section {
+    display: flex;
     width: 1200px;
+    justify-content: space-between;
+    flex-direction: row;
+    
 }
 .portfolio {
     background-color: white;
