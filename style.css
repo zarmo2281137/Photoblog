@@ -13,10 +13,40 @@ a {
 .section {
     display: flex;
     width: 1200px;
-    justify-content: space-between;
+   
     flex-direction: row;
     
 }
 .portfolio {
     background-color: white;
 }
+
+.fortnite {
+   display: flex;
+    order: 1;
+}
+
+.gearofwar {
+    display: flex;
+    order: 2;
+}
+ .infinityblade {
+    display: flex;
+    order: 3;
+ }
+ .shadow_complex {
+    order: 4;
+    display: flex;
+ }
+
+ .card-1 {
+
+ }
+
+ .section {
+
+ }
+ h2 {
+    display: flex;
+    flex-direction: column;
+ }
