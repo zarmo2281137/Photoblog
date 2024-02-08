@@ -24,19 +24,23 @@ a {
 .fortnite {
    display: flex;
     order: 1;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
 }
 
 .gearofwar {
     display: flex;
     order: 2;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
 }
  .infinityblade {
     display: flex;
     order: 3;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
  }
  .shadow_complex {
     order: 4;
     display: flex;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
  }
 
  .card-1 {
@@ -50,3 +54,7 @@ a {
     display: flex;
     flex-direction: column;
  }
+
+main {
+    background-image: url(/images/rough.jpg) center ;
+}
